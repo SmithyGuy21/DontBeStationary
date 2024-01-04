@@ -1,26 +1,23 @@
-# Unreal Engine 5 2D Side Scroller Blueprint Template
-A basic 2D side scroller blueprint template for Unreal Engine 5.
-**This template requires Unreal Engine 5.1 or higher**
+# Don't Be Stationary - Unreal Engine 5 Game
 
-![template](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/5bd1b1c9-5468-4de4-956f-4f688375023a)
+## Project Overview
+Welcome to **Don't Be Stationary**, an exciting game developed using Unreal Engine 5. In this unique experience, you embody a paper plane living on a sheet of paper, threatened by real-life objects aiming to tear you away. Navigate through a hostile environment, avoiding tears and combating enemies to survive as long as possible. The game incorporates innovative mechanics, such as time manipulation, to enhance your survival strategies.
 
-## Advanced Templates
-![TP_ZDSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/cd6b2446-cd31-4964-81db-496b1f7d86d8)
-![TP_ZDTopDownBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/29672976-2ae4-4ebd-ac14-b94a21111117)
+## Collaboration Plan
+Our team collaborated effectively to bring this project to life. We utilized version control on GitHub for code collaboration, while project files were regularly uploaded to a shared drive to maintain consistency. Roles were distributed with a focus on each member's strengths – graphic design, quality control, programming, and specific gameplay elements.
 
-As a patron you get access to the advanced 2D/3D hybrid version of this template and also Top Down 2D template.
-Both of these use the free PaperZD plugin which adds Animation Blueprint and Anim Notify support for a better workflow.
+## Milestones and Achievements
+For our initial goals, we successfully achieved the following milestones:
+- Implemented movable player character with enemy interaction.
+- Created a general enemy class and projectile class.
+- Developed the first enemy for testing.
+- Added a basic player attack.
+- Implemented a time mechanic to slow down the game.
 
-https://www.patreon.com/collection/111760
+## Demo Video
+Check out our [demo video](https://youtu.be/LF4sv0o3f1I) to see Don't Be Stationary in action!
 
-## How to Install
-Click on Code and then Download ZIP to download the template.
-![image](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/fbb64928-0b9c-4eeb-ad91-5b8910173fff)
+## License
+This project is licensed under the [Creative Commons Attribution 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
-After that follow the simple instructions in this document:
-https://docs.google.com/document/d/1VhYKdyyU42LH5tdueSkXBGg_IOoFlG0tqiea0vXc-6k/edit?usp=sharing
-
-## Art Assets
-Huge thanks to Ansimuz for putting out these art assets as Public Domain!
-
-https://ansimuz.itch.io/sunny-land-pixel-game-art
+Feel free to explore, modify, and share the game as part of your gaming experience. If you have any questions or suggestions, please reach out. Enjoy playing Don't Be Stationary!
